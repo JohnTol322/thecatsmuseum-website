@@ -12,3 +12,25 @@ body {
   background-size: 25vw auto;
   background-repeat: repeat;
 }
+header {
+  display: flex;
+  align-items: flex-end;
+  height: 15.7vh;
+  width: 100vw;
+  background-color: rgba(0, 0, 0, 0.75);
+}
+#logo-title {
+  display: flex;
+  align-items: center;
+}
+#logo {
+  height: 13.88vh;
+  padding-left: 1vh;
+}
+#title {
+  font-family: "Redressed", cursive;
+  font-weight: normal;
+  color: white;
+  font-size: 8vh;
+  margin-left: 1vw;
+}
