@@ -15,7 +15,6 @@ body {
 header {
   display: flex;
   align-items: flex-end;
-  justify-content: space-between;
   min-height: 15.7vh;
   max-height: fit-content;
   width: 100vw;
@@ -44,6 +43,7 @@ header {
   display: flex;
   justify-content: space-around;
   align-items: center;
+  margin-bottom: 1vh;
 }
 #nav li a {
   display: flex;
@@ -66,13 +66,15 @@ header {
   text-decoration: underline;
   border: 2px solid white;
 }
-.icon {
-  width: 5vh;
-}
-#social-media {
+#home-main {
   display: flex;
-  justify-content: space-between;
-  width: 9vw;
-  height: 14vh;
-  margin-right: 2vw;
+  justify-content: space-around;
+  margin-top: 5vh;
+}
+#home-page-box {
+  width: 80vw;
+  min-height: 10vh;
+  max-height: fit-content;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 0.726);
 }
