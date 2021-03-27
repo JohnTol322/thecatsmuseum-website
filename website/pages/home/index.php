@@ -2,7 +2,7 @@
 <title>TheCatsMuseum | | Home</title>
 <?php include "../../php-includes/header.php" ?>
 <main id="home-main">
-      <div class="page-box"></div>
+      <div class="page-box" id="homepage-text"></div>
     </main>
     <footer></footer>
   </body>

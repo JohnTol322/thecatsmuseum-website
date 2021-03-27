@@ -8,17 +8,7 @@
     <link rel="stylesheet" href="../../css/bootstrap.min.css" />
     <link rel="icon" href="../../images/Logo_Cats.png" />
     <link rel="preconnect" href="https://fonts.gstatic.com" />
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Redressed&display=swap"
-    />
-    <script
-      defer
-      type="text/javascript"
-      src="../../js/bootstrap.min.js"
-    ></script>
-    <script
-      defer
-      type="text/javascript"
-      src="../../js/jquery-3.3.1.min.js"
-    ></script>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Redressed&display=swap" />
+    <script defer type="text/javascript" src="../../js/bootstrap.min.js"></script>
+    <script defer type="text/javascript" src="../../js/jquery-3.3.1.min.js"></script>
+    <script defer type="text/javascript" src="../../js/fetch-homepage_text.js"></script>
