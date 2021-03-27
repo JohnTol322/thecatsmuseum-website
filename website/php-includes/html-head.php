@@ -13,5 +13,5 @@
     <link href="https://fonts.googleapis.com/css2?family=Averia+Serif+Libre:wght@300&display=swap" rel="stylesheet">
     <script defer type="text/javascript" src="../../js/bootstrap.min.js"></script>
     <script defer type="text/javascript" src="../../js/jquery-3.3.1.min.js"></script>
-    <script defer type="text/javascript" src="../../js/fetch-homepage_text.js"></script>
+    <script defer type="text/javascript" src="../../js/fetch-text.js"></script>
     <script defer type="text/javascript" src="../../js/logo-home_link.js"></script>
