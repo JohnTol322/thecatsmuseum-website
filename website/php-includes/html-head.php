@@ -22,24 +22,3 @@
       type="text/javascript"
       src="../../js/jquery-3.3.1.min.js"
     ></script>
-    <title>TheCatsMuseum | | Contact</title>
-  </head>
-
-  <body>
-    <header>
-      <div id="logo-title">
-        <img src="../../images/Logo_Cats.png" alt="Logo_Cats" id="logo" />
-        <h1 id="title">The Cats Museum</h1>
-      </div>
-      <ul id="nav">
-        <li><a href="../../">Home</a></li>
-        <li><a href="">pagina 2</a></li>
-        <li><a href="">pagina 3</a></li>
-        <li><a href="#">contact</a></li>
-      </ul>
-    </header>
-    <main id="contact-main">
-      <div class="page-box"></div>
-    </main>
-  </body>
-</html>
