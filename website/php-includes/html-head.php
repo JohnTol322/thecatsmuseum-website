@@ -15,3 +15,4 @@
     <script defer type="text/javascript" src="../../js/jquery-3.3.1.min.js"></script>
     <script defer type="text/javascript" src="../../js/fetch-text.js"></script>
     <script defer type="text/javascript" src="../../js/logo-home_link.js"></script>
+    <script defer type="text/javascript" src="../../js/img_modal.js"></script>

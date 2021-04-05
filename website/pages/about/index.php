@@ -16,4 +16,17 @@
           <br>
           <p id="about-text"></p>
     </div>
+
+    <!-- The Modal -->
+    <div id="myModal" class="modal">
+
+    <!-- The Close Button -->
+    <span class="close">&times;</span>
+
+    <!-- Modal Content (The Image) -->
+    <img class="modal-content" id="nivo-image" src="../../images/NIVO_13-05-20_28[318]-1.jpg" alt="">
+
+    <!-- Modal Caption (Image Text) -->
+    <div id="caption"></div>
+</div>
 </main>
