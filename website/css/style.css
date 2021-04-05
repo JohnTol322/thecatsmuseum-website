@@ -77,6 +77,11 @@ header {
   height: auto;
   margin-right: 1%;
 }
+#aboutimage {
+  width: 60vw;
+  height: auto;
+  margin-right: 1%;
+}
 .page-box {
   width: 80vw;
   min-height: 10vh;
