@@ -77,10 +77,10 @@ header {
   height: auto;
   margin-right: 1%;
 }
-#aboutimage {
-  width: 60vw;
-  height: auto;
-  margin-right: 1%;
+.aboutimage {
+  width: auto;
+  height: 45vh;
+  margin-right: 0.5%;
 }
 .page-box {
   width: 80vw;
@@ -123,13 +123,13 @@ header {
   display: flex;
   justify-content: space-around;
 }
-#aboutimage {
+.aboutimage {
   border-radius: 5px;
   cursor: pointer;
   transition: 0.3s;
 }
 
-#aboutimage:hover {
+.aboutimage:hover {
   opacity: 0.7;
 }
 
@@ -138,6 +138,7 @@ header {
   display: none; /* Hidden by default */
   position: fixed; /* Stay in place */
   z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
   left: 0;
   top: 0;
   width: 100%; /* Full width */

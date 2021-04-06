@@ -11,7 +11,8 @@
           </div>
           <hr>
           <div class="centreer">
-          <img src="../../images/aboutimage.jpg" alt="image" id="aboutimage">
+          <img src="../../images/NIVO_13-05-20_28.jpg" alt="NIVO_13-05-20_28[318]-1.jpg" class="aboutimage">
+          <img src="../../images/NIVO-03-03-21-18[501].jpg" alt="NIVO-03-03-21-18[501]-1.jpg" class="aboutimage">
           </div>
           <br>
           <p id="about-text"></p>
@@ -24,7 +25,7 @@
     <span class="close">&times;</span>
 
     <!-- Modal Content (The Image) -->
-    <img class="modal-content" id="nivo-image" src="../../images/NIVO_13-05-20_28[318]-1.jpg" alt="">
+    <img class="modal-content" id="nivo-image" src="" alt="">
 
     <!-- Modal Caption (Image Text) -->
     <div id="caption"></div>

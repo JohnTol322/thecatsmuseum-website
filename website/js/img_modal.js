@@ -1,18 +1,16 @@
-// Get the modal
 var modal = document.getElementById("myModal");
-
-// Get the image and insert it inside the modal - use its "alt" text as a caption
-var img = document.getElementById("aboutimage");
+var modalImg = document.getElementById("nivo-image")
 var captionText = document.getElementById("caption");
-img.onclick = function(){
+var img = document.querySelectorAll(".aboutimage").forEach(element => {
+  element.onclick = function(){
   modal.style.display = "block";
-  captionText.innerHTML = this.alt;
+  modalImg.src = this.src;
+  captionText.innerHTML = "<a href='../../images/" + this.alt + "'>klik hier voor artikel</a>";
 }
+});;
 
-// Get the <span> element that closes the modal
 var span = document.getElementsByClassName("close")[0];
 
-// When the user clicks on <span> (x), close the modal
 span.onclick = function() {
   modal.style.display = "none";
 }
