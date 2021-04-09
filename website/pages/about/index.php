@@ -7,7 +7,7 @@
 <main id="about-main">
     <div class="page-box">
     <div style="display: flex; justify-content: space-around;">
-          <h1 id="home-title">Over Ons</h1>
+          <h1 class="home-title">Over Ons</h1>
           </div>
           <hr>
           <div class="centreer">

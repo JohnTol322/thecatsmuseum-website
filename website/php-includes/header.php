@@ -8,8 +8,8 @@
     </div>
     <ul id="nav">
       <li><a href="../home/">Home</a></li>
-      <li><a href="../about">Over Ons</a></li>
-      <li><a href="../pagina3">pagina 3</a></li>
+      <li><a href="../about/">Over Ons</a></li>
+      <li><a href="../gasten/">Gasten</a></li>
       <li><a href="../contact/">Contact</a></li>
     </ul>
   </header>
