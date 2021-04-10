@@ -7,7 +7,7 @@
 <main id="nieuws-main">
     <div class="page-box">
         <div style="display: flex; justify-content: space-around;">
-          <h1 class="home-title">Nieuws Muziekwijk</h1>
+          <h1 class="home-title">Muziekwijk</h1>
         </div>
         <hr>
         <img src="../../images/Muziekwijk.jpg" alt="" id="nieuws-img">
