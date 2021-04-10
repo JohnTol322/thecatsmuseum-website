@@ -225,3 +225,9 @@ header {
 footer {
   height: 15vh;
 }
+
+#nieuws-img {
+  width: 30vw;
+  float: left;
+  margin-right: 10px;
+}

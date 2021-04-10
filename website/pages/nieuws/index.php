@@ -10,8 +10,7 @@
           <h1 class="home-title">Nieuws Muziekwijk</h1>
         </div>
         <hr>
-        <div class="centreer">
-        </div>
+        <img src="../../images/Muziekwijk.jpg" alt="" id="nieuws-img">
         <p id="nieuws-text"></p>
     </div>
 </main>
