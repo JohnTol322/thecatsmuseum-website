@@ -12,6 +12,7 @@
         <hr>
         <div class="centreer">
         </div>
+        <p id="nieuws-text"></p>
     </div>
 </main>
 
