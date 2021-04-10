@@ -221,3 +221,7 @@ header {
   font-weight: bold;
   font-size: 1rem;
 }
+
+footer {
+  height: 15vh;
+}

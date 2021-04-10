@@ -14,3 +14,5 @@
         </div>
     </div>
 </main>
+
+<?php include "../../php-includes/footer.php" ?>

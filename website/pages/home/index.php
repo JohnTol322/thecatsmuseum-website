@@ -14,6 +14,5 @@
           <p id="homepage-text"></p>
       </div>
     </main>
-    <footer></footer>
-  </body>
-</html>
+    
+<?php include "../../php-includes/footer.php" ?>
