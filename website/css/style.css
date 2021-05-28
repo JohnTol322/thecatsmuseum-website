@@ -73,7 +73,7 @@ header {
   margin-top: 5vh;
 }
 #homeimage {
-  width: 60vw;
+  width: 50vw;
   height: auto;
   margin-right: 1%;
 }
@@ -92,7 +92,7 @@ header {
 }
 #homepage-text {
   font-weight: bold;
-  font-size: 1.35rem;
+  font-size: 1.5rem;
 }
 #contact-main {
   display: flex;
