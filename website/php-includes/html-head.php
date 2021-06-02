@@ -17,3 +17,4 @@
     <script defer type="text/javascript" src="../../js/logo-home_link.js"></script>
     <script defer type="text/javascript" src="../../js/gast-pagina_link.js"></script>
     <script defer type="text/javascript" src="../../js/img_modal.js"></script>
+    <script defer type="text/javascript" src="../../js/navbar.js"></script>

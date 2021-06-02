@@ -316,6 +316,7 @@ footer {
 }
 .togglenav ul li {
   list-style: none;
+  margin-top: 10px;
 }
 #mini-nav li a {
   text-decoration: none;
@@ -330,7 +331,34 @@ footer {
     display: flex;
   }
 
-  .togglenav {
+  .shownav {
     display: flex;
+  }
+  .page-box {
+    width: 100vw;
+  }
+  #homeimage {
+    width: 80vw;
+    height: 45vw;
+  }
+  .centreer {
+    flex-direction: column;
+  }
+  #nieuws-img {
+    float: none;
+    width: 80vw;
+  }
+  .gasten-grid {
+    grid-template-columns: repeat(1, auto);
+  }
+  .gast-div {
+    width: 60vw;
+  }
+  .gast-div img {
+    max-width: 59vw;
+  }
+  .gast-page-img {
+    float: none;
+    max-width: 80vw;
   }
 }
