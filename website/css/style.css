@@ -287,3 +287,50 @@ footer {
   font-weight: bold;
   font-size: 1.6rem;
 }
+
+/* small screen styling */
+
+.toggle-button {
+  position: absolute;
+  top: 3.75rem;
+  right: 2.5rem;
+  display: none;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 7vh;
+  height: 5vh;
+}
+.toggle-button .bar {
+  height: 0.7vh;
+  width: 100%;
+  background-color: white;
+  border-radius: 10px;
+}
+.togglenav {
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.9);
+  display: none;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+.togglenav ul li {
+  list-style: none;
+}
+#mini-nav li a {
+  text-decoration: none;
+  color: white;
+}
+@media only screen and (max-width: 1000px) {
+  #nav li {
+    display: none;
+  }
+
+  .toggle-button {
+    display: flex;
+  }
+
+  .togglenav {
+    display: flex;
+  }
+}
