@@ -3,7 +3,7 @@
 <body>
   <header>
     <div id="logo-title">
-      <img src="../../images/Logo_Cats.png" alt="Logo_Cats" id="logo" />
+      <img src="../../images/The Cats Logo.jpg" alt="Logo_Cats" id="logo" />
       <h1 id="title">The Cats Museum</h1>
     </div>
     <ul id="nav">
